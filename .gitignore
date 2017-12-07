@@ -13,7 +13,7 @@ target/
 #eclispe ignore
 .setting/
 .project
-.classpatch
+.classpath
 
 #idea
 .idea/
